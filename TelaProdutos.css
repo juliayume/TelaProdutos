@@ -6,6 +6,13 @@ body, html{
   background-color: #000874;
 }
 
+.img{
+    max-width:200%;
+    max-height:150%;
+    width: auto;
+    height: auto;
+}
+
 button{
   margin:auto;
   margin-top: 5%;
